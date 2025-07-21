@@ -1,1 +1,3 @@
-# GeissbockRadar-News-bot
+# 📣 GeissbockRadar – FC Köln News Bot
+
+Anleitung...
